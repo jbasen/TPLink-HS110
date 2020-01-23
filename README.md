@@ -1,1 +1,1 @@
-# TPLink-HS110
+This module communicates with a TV-Link HS110 energy monitoring smart plug and collects the energy usage data from it.  Optionally, it can monitor an appliance, such as a clothes washer or dishwasher, and send a notification when the appliance finishes its cleaning cycle.  It should be noted that this module communicates directly with the TP-Link HS110 energy monitoring smart plug at the specified IP Address.  It does not use a cloud service.  It uses a well documented  protocol available on the Internet but this protocol is not supported by TP-Link. 
